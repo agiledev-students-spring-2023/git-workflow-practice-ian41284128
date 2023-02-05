@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+A website I found interesting and related to software development is this article about the internet project
+
+### [#Payblacktime](https://anthology.rhizome.org/payblacktime)
+
+The article, part of the net art anthology project details a site created by **RaFia Santana** called *Payblacktime*. The site was created in 2016 and allowed people to donate money which would go towards grubhub meals for black americans. What struck me about *Payblacktime* was that it looks like a project that could be proposed in this class. The website is simple (it has an old internet limited css look,) and it doesn't use any crazy unheard of technology. **RaFia** just took well established technology (charging people money) and used the internet to setup a system that could redistribute wealth. *Payblacktime* is straightforward and satisfies all the requirements for a great project pitch in this class. It has a limited scope, a specific target demographic and it makes it's significance and importance convincing.
